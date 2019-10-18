@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace dom1
+namespace testowa
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Projekt testowy");
-            Console.WriteLine("czy to na pewno działa?");
-
+            Console.WriteLine("TEST!");
             Console.ReadKey();
         }
     }
