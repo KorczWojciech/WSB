@@ -132,23 +132,28 @@ namespace ConsoleApp2
              * użytkownik z klawiatury podaje ilość ulubionych kolorów
              * wykorzystaj pętle for do przypisania kolorów do zmiennej
              */
-
+            Console.Clear();
             Console.WriteLine("Podaj ilość ulubionych kolorów");
-            string color = "",x;
+            string color = "";
+            string x;
             string count;
             count = Console.ReadLine();
             byte count1;
-            while (byte.TryParse(count, out count1)== false)
+            if (byte.TryParse(count, out count1) == true)
             {
-                for (i=0;i<= count1; i++)
+                for (i=0;i< count1; i++)
                 {
-                    Console.WriteLine("Podaj kolor: ");
-                    x = Console.ReadLine();
-                    color += x;
+                Console.WriteLine("Podaj kolor: ");
+                x = Console.ReadLine();
+                color = color + " " + x;
                 }
+                Console.WriteLine("Ulubione kolory: {0}", color);
+            }
+            else
+            {
+                Console.WriteLine("Niepoprawna Liczba!");
             }
 
-            Console.WriteLine("Ulubione kolory: {0}", color);
 
             Console.ReadKey();
         }
