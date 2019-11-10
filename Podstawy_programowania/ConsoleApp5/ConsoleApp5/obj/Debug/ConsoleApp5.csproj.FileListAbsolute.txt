@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
