@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\bin\Debug\ConsoleApp7 funkcje cd cd.exe.config
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\bin\Debug\ConsoleApp7 funkcje cd cd.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\bin\Debug\ConsoleApp7 funkcje cd cd.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\obj\Debug\ConsoleApp7 funkcje cd cd.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\obj\Debug\ConsoleApp7 funkcje cd cd.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd cd\ConsoleApp7 funkcje cd cd\obj\Debug\ConsoleApp7 funkcje cd cd.pdb

@@ -1,0 +1,5 @@
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd\ConsoleApp7 funkcje cd\bin\Debug\ConsoleApp7 funkcje cd.exe.config
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd\ConsoleApp7 funkcje cd\bin\Debug\ConsoleApp7 funkcje cd.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd\ConsoleApp7 funkcje cd\bin\Debug\ConsoleApp7 funkcje cd.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd\ConsoleApp7 funkcje cd\obj\Debug\ConsoleApp7 funkcje cd.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje cd\ConsoleApp7 funkcje cd\obj\Debug\ConsoleApp7 funkcje cd.pdb

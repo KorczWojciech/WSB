@@ -1,0 +1,5 @@
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje5\ConsoleApp7 funkcje5\bin\Debug\ConsoleApp7 funkcje5.exe.config
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje5\ConsoleApp7 funkcje5\bin\Debug\ConsoleApp7 funkcje5.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje5\ConsoleApp7 funkcje5\bin\Debug\ConsoleApp7 funkcje5.pdb
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje5\ConsoleApp7 funkcje5\obj\Debug\ConsoleApp7 funkcje5.exe
+C:\xampp\htdocs\git3\Podstawy_programowania\ConsoleApp7 funkcje5\ConsoleApp7 funkcje5\obj\Debug\ConsoleApp7 funkcje5.pdb
