@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioteka progam", "biblioteka progam\biblioteka progam.csproj", "{845692C4-EE8B-4717-861F-9D1F7082F13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845692C4-EE8B-4717-861F-9D1F7082F13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845692C4-EE8B-4717-861F-9D1F7082F13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845692C4-EE8B-4717-861F-9D1F7082F13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845692C4-EE8B-4717-861F-9D1F7082F13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007A95C4-4140-45AF-B24B-4319ED79DE9C}
+	EndGlobalSection
+EndGlobal

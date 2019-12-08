@@ -1,0 +1,11 @@
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\biblioteka progam.exe.config
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\biblioteka progam.exe
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\biblioteka progam.pdb
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\biblioteki.dll
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\biblioteki.pdb
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\obj\Debug\biblioteka progam.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\obj\Debug\biblioteka progam.csproj.CopyComplete
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\obj\Debug\biblioteka progam.exe
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\obj\Debug\biblioteka progam.pdb
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\Biblioteka_2.dll
+C:\xampp\htdocs\git3\biblioteka progam\biblioteka progam\bin\Debug\Biblioteka_2.pdb

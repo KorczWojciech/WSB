@@ -1,0 +1,4 @@
+C:\xampp\htdocs\git3\Biblioteka_2\Biblioteka_2\bin\Debug\Biblioteka_2.dll
+C:\xampp\htdocs\git3\Biblioteka_2\Biblioteka_2\bin\Debug\Biblioteka_2.pdb
+C:\xampp\htdocs\git3\Biblioteka_2\Biblioteka_2\obj\Debug\Biblioteka_2.dll
+C:\xampp\htdocs\git3\Biblioteka_2\Biblioteka_2\obj\Debug\Biblioteka_2.pdb

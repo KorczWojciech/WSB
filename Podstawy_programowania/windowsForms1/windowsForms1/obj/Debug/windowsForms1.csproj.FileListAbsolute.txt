@@ -1,0 +1,9 @@
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\bin\Debug\windowsForms1.exe.config
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\bin\Debug\windowsForms1.exe
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\bin\Debug\windowsForms1.pdb
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.Form1.resources
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.Properties.Resources.resources
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.csproj.GenerateResource.cache
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.exe
+C:\xampp\htdocs\git3\windowsForms1\windowsForms1\obj\Debug\windowsForms1.pdb

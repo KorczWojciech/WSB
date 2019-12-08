@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git3\pliki3\pliki3\bin\Debug\pliki3.exe.config
+C:\xampp\htdocs\git3\pliki3\pliki3\bin\Debug\pliki3.exe
+C:\xampp\htdocs\git3\pliki3\pliki3\bin\Debug\pliki3.pdb
+C:\xampp\htdocs\git3\pliki3\pliki3\obj\Debug\pliki3.exe
+C:\xampp\htdocs\git3\pliki3\pliki3\obj\Debug\pliki3.pdb
+C:\xampp\htdocs\git3\pliki3\pliki3\obj\Debug\pliki3.csprojAssemblyReference.cache

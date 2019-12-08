@@ -1,0 +1,4 @@
+C:\xampp\htdocs\git3\biblioteki\biblioteki\bin\Debug\biblioteki.dll
+C:\xampp\htdocs\git3\biblioteki\biblioteki\bin\Debug\biblioteki.pdb
+C:\xampp\htdocs\git3\biblioteki\biblioteki\obj\Debug\biblioteki.dll
+C:\xampp\htdocs\git3\biblioteki\biblioteki\obj\Debug\biblioteki.pdb

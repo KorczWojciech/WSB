@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git3\pliki1\pliki1\bin\Debug\pliki1.exe.config
+C:\xampp\htdocs\git3\pliki1\pliki1\bin\Debug\pliki1.exe
+C:\xampp\htdocs\git3\pliki1\pliki1\bin\Debug\pliki1.pdb
+C:\xampp\htdocs\git3\pliki1\pliki1\obj\Debug\pliki1.csprojAssemblyReference.cache
+C:\xampp\htdocs\git3\pliki1\pliki1\obj\Debug\pliki1.exe
+C:\xampp\htdocs\git3\pliki1\pliki1\obj\Debug\pliki1.pdb
